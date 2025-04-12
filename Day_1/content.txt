@@ -1,3 +1,6 @@
+### no assingment was given on this day ###
+
+
 In the first day 
 
 He explained us what is devops, pipelines, why devops is needed and how it works

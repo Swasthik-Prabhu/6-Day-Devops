@@ -1,3 +1,6 @@
+### no assingment was given on this day ###
+
+
 What is namespace?
 
 	dividing cluster into isolated environments, when we are deploying multiple projects we use namespace.
@@ -64,4 +67,7 @@ monitoring tools like prometheus
 
 ### NOTE : 
 	Handsible is a configuration management tools. we will perform automation using this
+
+
+
 

@@ -1,3 +1,6 @@
+### no assingment was given on this day ###
+
+
 ### Problems with Container
 
 1.Containers will not support autoscaling
@@ -47,6 +50,8 @@ To overcome the problems we are moving to the orchestration tools
 
 1. create a jump server or western host
 2. Note : we have to install kubectl, ecsctl and also awscli
+
+
 
 
 
@@ -110,3 +115,7 @@ eksctl delete cluster --region=us-east-1 --name=swasthik-cluster
 
 ### 1 CPU = 1000 m
 ### 1 GB = 1024 megabytes
+
+
+
+
